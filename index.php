@@ -139,7 +139,7 @@ function calculate() {
 		<td class='suited'>A9s</td>
 		<td class='suited'>A8s</td>
 		<td class='suited'>A7s</td>
-		<td class='suited'>A6s</td>
+		<td class='suited'>A6s</td>scffdasdasdadsaad
 		<td class='suited'>A5s</td>
 		<td class='suited'>A4s</td>
 		<td class='suited'>A3s</td>
